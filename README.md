@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Fuat...)](https://git.io/typing-svg)
-<a href="https://github.com/fuatsevinc"><img src="https://visitor-badge.laobi.icu/badge?page_id=fuatsevinc&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 <img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
 <h6>🔭 I’m currently working on frontend and backend web development </h6>
@@ -7,11 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
-  <a href="https://www.linkedin.com/in/mevl%C3%BCt-bilge-tekkoyun-245566235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mevl%C3%BCt-bilge-tekkoyun-245566235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mevlutbilgee" height="30" width="40" /></a>
 
-  <a href="https://www.instagram.com/mevlutbilgee/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mevlutbilgee/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mevlüt Bilge Tekkoyun" height="30" width="40" /></a>
 
-</p>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+
 
 
 ### 🔧 Languages and Tools:
